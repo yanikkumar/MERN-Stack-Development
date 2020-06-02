@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://believemaster:believemaster2103@bmcommunity-l0vz3.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b690e1352442a8dffb11",
+  "githubSecret": "9ddc35d1cebaa3c7cd9cca4b300cf02872011a1a"
 }
